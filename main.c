@@ -1,4 +1,3 @@
-#include <studio>
 int main()
 {
   int i;
